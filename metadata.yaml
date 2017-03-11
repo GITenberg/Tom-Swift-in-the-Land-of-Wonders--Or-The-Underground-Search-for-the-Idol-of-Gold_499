@@ -1,5 +1,8 @@
 _repo: Tom-Swift-in-the-Land-of-Wonders--Or-The-Underground-Search-for-the-Idol-of-Gold_499
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Appleton, Victor
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/499#Tom-Swift-in-the-Land-of-Wonders--Or-The-Underground-Search-for-the-Idol-of-Gold
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
